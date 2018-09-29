@@ -11,7 +11,7 @@ def destroy
 	@tag = Tag.find(params[:id])
 	@tag.destroy
 
-	redirect_to tags_path(@tag)
+	redirect_to action: 'index'
 
 end
 end

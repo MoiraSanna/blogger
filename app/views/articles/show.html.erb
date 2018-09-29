@@ -1,4 +1,9 @@
 <h1><%= @article.title %></h1>
+
+<p>
+	<%= image_tag(@article.image, style:'width:300px; height:300px') %>
+</p>
+
 <p>
 	Tags:
 	<% @article.tags.each do |tag| %>

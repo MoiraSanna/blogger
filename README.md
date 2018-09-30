@@ -1,24 +1,13 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### This is an application I built as part of the Odin Project course.
 
-Things you may want to cover:
+I used:
 
-* Ruby version
+* Ruby version 2.4.1
 
-* System dependencies
+* Rails version 5.2.1
 
-* Configuration
+* Active storage in place of Paperclip 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### [Click here to view this app on Heroku and play with it!](https://nameless-coast-32249.herokuapp.com/)
